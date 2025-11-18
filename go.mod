@@ -1,4 +1,4 @@
-module github.com/microcosm-cc/bluemonday
+module github.com/vijfhoek/bluemonday
 
 go 1.24.0
 
